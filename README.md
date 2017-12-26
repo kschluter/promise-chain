@@ -3,5 +3,5 @@ An example promise pattern for writing asynchronous javascript (in a sequential 
 
 # Usage
 1. Clone repo
-2. Change "const = pass" to "const = false" in any of the three mod[n].js files to simulate an error/failure in the chain
+2. Change "const pass = true" to "const pass = false" in any of the three mod[n].js files to simulate an error/failure in the chain
 3. Run start script (npm run start)
