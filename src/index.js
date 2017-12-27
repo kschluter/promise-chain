@@ -2,7 +2,7 @@ var mod1 = require('./mod1');
 var mod2 = require('./mod2');
 var mod3 = require('./mod3');
 
-function execModChain(data) {
+function execModChain() {
 
     let result = {
         errors: [],
